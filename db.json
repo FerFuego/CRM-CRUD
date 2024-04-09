@@ -1,0 +1,24 @@
+{
+  "clients": [
+    {
+      "id": "9958",
+      "name": "Romina",
+      "email": "romi@sudecor.com",
+      "phone": "+54 12343434",
+      "company": "Sudecor"
+    },
+    {
+      "id": "6a6d",
+      "name": "Fernando",
+      "email": "fer@hazak.tech",
+      "phone": "+54 323232323",
+      "company": "Hazak.tech"
+    }
+  ],
+  "users": [],
+  "organizations": [],
+  "projects": [],
+  "environments": [],
+  "roles": [],
+  "permissions": []
+}
