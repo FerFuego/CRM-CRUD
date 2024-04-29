@@ -1,4 +1,4 @@
-const url = 'http://localhost:4000/clients';
+const url = 'http://localhost:3000/clients';
 
 // Crear nuevo cliente
 export const newClient = async client => {
